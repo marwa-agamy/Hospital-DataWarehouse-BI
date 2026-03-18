@@ -74,7 +74,7 @@ CREATE TABLE dim_bed (
     bed_id INT,
     bed_number NVARCHAR(10),
     bed_status NVARCHAR(20),
-    ward_key INT,              
+    ward_id INT,              
     department_id INT,         
     department_name NVARCHAR(100)
 );
