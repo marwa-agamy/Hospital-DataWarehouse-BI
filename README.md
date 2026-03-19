@@ -65,16 +65,7 @@ These sources were later integrated into the ETL pipeline using SSIS.
 
 The architecture follows a layered approach:
 
-Source Layer
-↓
-Staging Layer (Hospital_Staging)
-↓
-Data Warehouse Layer (Hospital_DW)
-↓
-Semantic Layer (SSAS Tabular)
-↓
-Reporting Layer (SSRS & Power BI)
-
+`Source Layer → Staging Layer (Hospital_Staging) → Data Warehouse Layer (Hospital_DW) → Semantic Layer (SSAS Tabular) → Reporting Layer (SSRS & Power BI)`
 ---
 
 # ⚙️ ETL Process (SSIS)
