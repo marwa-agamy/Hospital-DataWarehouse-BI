@@ -1,4 +1,4 @@
-# 🏥 Hospital HMIS Data Warehouse & Business Intelligence Solution
+# 🏥 HMIS Data Warehouse & Business Intelligence Solution
 
 ## 📌 Project Overview
 
